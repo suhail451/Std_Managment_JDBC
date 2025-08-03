@@ -71,7 +71,7 @@ Copy
 Edit
 model m = new model("jdbc:mysql://localhost:3306/student_db", "your_username", "your_password");
 
-
+---
 
 
 public class Main {
